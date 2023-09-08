@@ -4,4 +4,4 @@ This is the PyTorch implementation of TSNet. You can run the experiments through
 
 python train.py --dataset NATOPS
 
-![overview](https://github.com/WenweiGu/TSNet/assets/70479205/9d924d6f-ef96-4c0c-8cd9-f63d1cf81016)
+![overview](https://github.com/WenweiGu/TSNet/assets/70479205/a53197d6-40b9-4e08-94cb-74ca7d368390)
