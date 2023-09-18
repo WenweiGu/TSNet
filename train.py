@@ -74,9 +74,9 @@ for attr, value in sorted(args.__dict__.items()):
 
 print("Loading dataset", args.dataset, "...")
 # Model and optimizer
-model_type = "TapNet"
+model_type = "TSNet"
 
-if model_type == "TapNet":
+if model_type == "TSNet":
 
     features, labels, idx_train, idx_val, idx_test, nclass = load_raw_ts(args.data_path, dataset=args.dataset)
     print("Data shape:", features.size())
